@@ -6,7 +6,7 @@ Welcome to my collection of self-created math guidebooks! These books are design
 
 ## 📚 What's Included
 
-- **📗 Comtempory Math Guidebook**  
+- **📗 Contemporary Math Guidebook**  
   Covers logic, geometry, taxes, and more.
 
 - **📘 PreCal Guidebook**  
